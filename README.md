@@ -5,7 +5,7 @@
 <img align="left" height="400" width="400" src="https://github.com/medali28/medali28/blob/main/images/ccd096d6c7ab4b9db327031f434ed056.jpeg"  />
 <p align="left">👋 I'm Mohamed Ali Romdhani, a 22-year-old computer science student at ESPRIT in Tunisia. I'm passionate about mobile app development📱🧠 AI (Artificial Intelligence), and you'll often find me immersed in code. 💻<br><br>When I'm not coding, you can catch me:<br><br>- 🎵 Listening to music<br>- 📺 Watching anime and series<br><br>Feel free to explore my projects and repositories. Thanks for visiting my profile! </p>
 <p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Let's+Connect..!" alt="Typing SVG" /></a></p>
+<span style="color: #36BCF7FF;">Let's Connect..!</span></p>
 <div align="left">
   <a href="https://www.linkedin.com/in/romdhani-mohamed-ali-a681a9183/">
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
