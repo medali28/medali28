@@ -3,11 +3,8 @@
 
 <h3 align="left">👩‍💻  About Me :</h3>
 
-###
-
 <img align="left" height="400" width="400" src="https://github.com/medali28/medali28/blob/main/images/ccd096d6c7ab4b9db327031f434ed056.jpeg"  />
 
-###
 
 <p align="left">👋 I'm Mohamed Ali Romdhani, a 22-year-old computer science student at ESPRIT in Tunisia. I'm passionate about mobile app development📱🧠 AI (Artificial Intelligence), and you'll often find me immersed in code. 💻<br><br>When I'm not coding, you can catch me:<br><br>- 🎵 Listening to music<br>- 📺 Watching anime and series<br><br>Feel free to explore my projects and repositories. Thanks for visiting my profile!</p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Let's+Connect..!" alt="Typing SVG" /></a>
@@ -23,7 +20,7 @@
 
 <img align="left"  src="https://github.com/medali28/medali28/blob/main/images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  /><br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=true&width=435&lines=Skills%3A" alt="Typing SVG" /></a>
+<H2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=true&width=435&lines=Skills%3A" alt="Typing SVG" /></a></H2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -40,11 +37,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
 </div>
 <br>
-<img align="left"  src="https://github.com/medali28/medali28/blob/main/images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  /><br><br>
+<img align="left"  src="https://github.com/medali28/medali28/blob/main/images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
+<H2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=true&width=435&lines=Github+Stats%3A" alt="Typing SVG" /></a></H2>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=medali28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=medali28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=medali28&locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=medali28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="200"  alt="languages graph"  /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=medali28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&order=1" height="200"  alt="stats graph"  /><br>
+  <img src="https://streak-stats.demolab.com?user=medali28&locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  /><br>
 </div>
 <img align="left"  src="https://github.com/medali28/medali28/blob/main/images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  /><br><br>
 <img src="https://raw.githubusercontent.com/medali28/medali28/output/snake.svg" alt="Snake animation" />
