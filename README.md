@@ -45,7 +45,7 @@
   <img src="https://streak-stats.demolab.com?user=medali28&locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
-<img align="left"  src="https://github.com/medali28/medali28/blob/main/images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  /><br><br>
+
 
 
 
