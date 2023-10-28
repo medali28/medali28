@@ -4,11 +4,11 @@
 <h3 align="left">👩‍💻  About Me :</h3>
 <div>
 <img align="left" height="400" width="400" src="https://github.com/medali28/medali28/blob/main/images/ccd096d6c7ab4b9db327031f434ed056.jpeg"  />
-
-
 <p align="left">👋 I'm Mohamed Ali Romdhani, a 22-year-old computer science student at ESPRIT in Tunisia. I'm passionate about mobile app development📱🧠 AI (Artificial Intelligence), and you'll often find me immersed in code. 💻<br><br>When I'm not coding, you can catch me:<br><br>- 🎵 Listening to music<br>- 📺 Watching anime and series<br><br>Feel free to explore my projects and repositories. Thanks for visiting my profile! </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Let's+Connect..!" alt="Typing SVG" /></a>
-<div>
+  </div>
+<p align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Let's+Connect..!" alt="Typing SVG" /></a></p>
+<div align="left">
   <a href="https://www.linkedin.com/in/romdhani-mohamed-ali-a681a9183/">
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
 </a>
@@ -16,7 +16,7 @@
    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
 </a>
 </div>
-</div>
+
 <img align="left"  src="https://github.com/medali28/medali28/blob/main/images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  /><br>
 
 <H2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=true&width=435&lines=Skills%3A" alt="Typing SVG" /></a></H2>
