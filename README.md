@@ -43,12 +43,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=medali28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="200"  alt="languages graph"  /> 
   <img src="https://github-readme-stats.vercel.app/api?username=medali28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&order=1" height="200"  alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=medali28&locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
-
 </div>
 
 <img align="left"  src="https://github.com/medali28/medali28/blob/main/images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  /><br><br>
 
-<H2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=true&width=435&lines=Github+Profile+Stats%3A" alt="Typing SVG" /></a></H2>
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
